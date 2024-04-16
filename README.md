@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Este repositorio lo cree en el curso de Henry para aprender a modificar un archivo desde el vscode.
